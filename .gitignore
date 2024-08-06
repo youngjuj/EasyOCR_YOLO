@@ -1,0 +1,20 @@
+segmentation/receipts_fasttext_240723
+runs/segment/
+model/
+labeled_img/
+img/
+khaiii/
+fastText/
+*.csv
+*.txt
+*.h5
+*.pt
+*.json
+스크린샷/
+영수증/
+segmentation/receipts segmentation
+segmentation/receipts segmentation_240710.v2i.yolov8
+segmentation/receipts segmentation_240710.v6i.yolov8
+segmentation/receipts segmentation_240710.v7i.yolov8
+segmentation/receipts segmentation.v1i.yolov8
+segmentation/receipts segmentation.v2i.yolov8
